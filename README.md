@@ -36,7 +36,7 @@ O projeto habists é um app feito para ajudar e rastrear como está sendo seus d
 Dentre suas funcionalidades, é basicamente você descrever com esta sendo seu dia
 marcando as checkboxs. rastreando seus hábitos <3
 
--[Visite o projeto online](https://leoclink77.github.io/-nlw-setup/)
+-[Visite o projeto online](https://leoclink77.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
